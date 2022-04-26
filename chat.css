@@ -1,0 +1,69 @@
+.boy {
+    border: solid 2px;
+    padding: 5px;
+    background-color: rgb(255, 247, 0);
+    width: 20em;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: 2px solid black;
+
+}
+
+.boy:hover {
+    background-color: rgb(66, 66, 237);
+
+
+}
+
+.container {
+    border: solid 2px;
+    height: auto;
+    width: 40em;
+    padding: 10px;
+    background-color:rgb(51, 147, 16);
+}
+
+.girl {
+    border: solid 2px;
+    padding: 5px;
+    margin-left: 16em;
+    margin-top: 10px;
+    background-color: rgb(153, 255, 0);
+    width: 20em;
+    border-radius: 5px;
+}
+
+.girl:hover{
+    background-color: cadetblue;
+}
+
+.story {
+    border: double 2px;
+    margin-top: 10px;
+    padding: 10px;
+    height: fit-content;
+    background-color: coral;
+}
+
+.chat {
+    border: dotted 2px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.date {
+
+    font-size: 12px;
+    margin-left: 9em;
+
+}
+
+.think {
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.think:hover{
+    background-color: rgb(71, 143, 16);
+}
